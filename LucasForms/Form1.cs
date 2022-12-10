@@ -17,7 +17,7 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement;
 /*
     PROJETO SIMULANDO UM CADASTRO DE CLIENTES 
     QUE PERMITE CADASTRAR :NOME :IDADE :GENERO
-    RETORNANDO UM LISTVIEW COM OS CLIENTES CADASTRADOS EM ORDEM CRESCENTE DE IDADE
+    RETORNANDO UM DATA GRID COM OS CLIENTES CADASTRADOS EM ORDEM CRESCENTE DE IDADE
     E UM FILTER PRA FILTRAR POR GENERO
  */
 namespace LucasForms
@@ -67,7 +67,7 @@ namespace LucasForms
 
         }
 
-        private void checkBox2_CheckedChanged(object sender, EventArgs e)   //ENQUANTO UM CHECK BOX1 ESTÁ ATIVO, DESATIVA O OUTRO
+        private void checkBox2_CheckedChanged(object sender, EventArgs e)   //ENQUANTO UM CHECK BOX2 ESTÁ ATIVO, DESATIA O CHEKC BOX 2
         {
             if (((CheckBox)sender).Checked)
             {
@@ -118,10 +118,7 @@ namespace LucasForms
             checkBox2.Checked = false;
         }
 
-        private bool IsNumber(string valor)
-        {
-            return valor.All(char.IsNumber);
-        }
+ 
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
@@ -133,7 +130,7 @@ namespace LucasForms
 
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e) //ENQUANTO UM CHECK BOX 2 ESTÁ ATIVO, DESATIVA O OUTRO
+        private void checkBox1_CheckedChanged(object sender, EventArgs e) //ENQUANTO UM CHECK BOX 1 ESTÁ ATIVO, DESATIA O CHEKC BOX 2
         {
             if (((CheckBox)sender).Checked)
             {
