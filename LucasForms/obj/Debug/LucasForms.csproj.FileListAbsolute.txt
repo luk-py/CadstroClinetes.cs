@@ -1,0 +1,21 @@
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\bin\Debug\LucasForms.exe.config
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\bin\Debug\LucasForms.exe
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\bin\Debug\LucasForms.pdb
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.csproj.AssemblyReference.cache
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.Form1.resources
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.Properties.Resources.resources
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.csproj.GenerateResource.cache
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.csproj.CoreCompileInputs.cache
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.exe
+C:\Users\PM ELESBÃO VELOSO\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.pdb
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\bin\Debug\LucasForms.exe.config
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\bin\Debug\LucasForms.exe
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\bin\Debug\LucasForms.pdb
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.csproj.AssemblyReference.cache
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.Form1.resources
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.Properties.Resources.resources
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.csproj.GenerateResource.cache
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.csproj.CoreCompileInputs.cache
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.exe
+C:\Users\LUCAS\source\repos\LucasForms\LucasForms\obj\Debug\LucasForms.pdb
